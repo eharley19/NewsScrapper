@@ -1,2 +1,2 @@
-# NewsScrapper
+# NewsScraper
 Web scrapper app using MongoDB
